@@ -1,45 +1,33 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
 
-# NomedoProjeto
+# Grafos2_Exercicios
 
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 2<br>
+**Conteúdo da Disciplina**: Grafos 2<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 20/2016524  |  Henrique Torres Landin |
+| 18/0136925  |  Hugo Rocha de Moura |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Resolução de exercícios do módulo Grafos1 da disciplina Projeto de Algoritmos 
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+### Exercicio1 - ""
+**Nível do exercício:** Médio
 
-## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+Para acessar a página do exercício [clique aqui]()
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+![image]()
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+**Instalação**<br>
+**Linguagem**: Python<br>
 
+Vale ressaltar que para rodar o código não é necessário instalar a linguagem Python, basta copiar o código e colar no terminal da plataforma usada para resolver o exercício.
 
+**Uso**<br>
+Para rodar e testar o exercício, basta entrar em seu respectivo link e escolher a linguagem correta, copiar o código e colar para fazer os testes!!
 
 
