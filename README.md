@@ -46,4 +46,17 @@ Vale ressaltar que para rodar o código não é necessário instalar a linguagem
 **Uso**<br>
 Para rodar e testar o exercício, basta entrar em seu respectivo link e escolher a linguagem correta, copiar o código e colar para fazer os testes!!
 
+### Exercicio3 - "Path With Minimum Effort"
+**Nível do exercício:** Médio
 
+Para acessar a página do exercício [clique aqui](https://leetcode.com/problems/path-with-minimum-effort/)
+
+imagem...
+
+**Instalação**<br>
+**Linguagem**: Python<br>
+
+Vale ressaltar que para rodar o código não é necessário instalar a linguagem Python, basta copiar o código e colar no terminal da plataforma usada para resolver o exercício.
+
+**Uso**<br>
+Para rodar e testar o exercício...
