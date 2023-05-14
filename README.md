@@ -51,7 +51,8 @@ Para rodar e testar o exercício, basta entrar em seu respectivo link e escolher
 
 Para acessar a página do exercício [clique aqui](https://leetcode.com/problems/path-with-minimum-effort/)
 
-imagem...
+
+![image](https://github.com/projeto-de-algoritmos/Grafos2_Dupla14/blob/master/PathWithMinimumEffort/images/print3.jpeg)
 
 **Instalação**<br>
 **Linguagem**: Python<br>
@@ -59,4 +60,4 @@ imagem...
 Vale ressaltar que para rodar o código não é necessário instalar a linguagem Python, basta copiar o código e colar no terminal da plataforma usada para resolver o exercício.
 
 **Uso**<br>
-Para rodar e testar o exercício...
+Para rodar e testar o exercício, basta entrar em seu respectivo link e escolher a linguagem correta, copiar o código e colar para fazer os testes!!
