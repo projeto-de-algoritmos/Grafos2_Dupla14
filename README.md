@@ -46,6 +46,9 @@ Vale ressaltar que para rodar o código não é necessário instalar a linguagem
 **Uso**<br>
 Para rodar e testar o exercício, basta entrar em seu respectivo link e escolher a linguagem correta, copiar o código e colar para fazer os testes!!
 
+**VIDEO EX 01 e 02**<br>
+[![VIDEOQ01e02](https://img.freepik.com/vetores-gratis/icone-do-player-do-youtube-com-design-plano_23-2147839964.jpg?w=200)](https://youtu.be/YuLHAEta8AI)
+
 ### Exercicio3 - "Path With Minimum Effort"
 **Nível do exercício:** Médio
 
@@ -61,3 +64,8 @@ Vale ressaltar que para rodar o código não é necessário instalar a linguagem
 
 **Uso**<br>
 Para rodar e testar o exercício, basta entrar em seu respectivo link e escolher a linguagem correta, copiar o código e colar para fazer os testes!!
+
+**VIDEO EX 03**<br>
+[![VIDEOQ003](https://img.freepik.com/vetores-gratis/icone-do-player-do-youtube-com-design-plano_23-2147839964.jpg?w=200)](https://youtu.be/FU0uNnwRQPY)
+
+
