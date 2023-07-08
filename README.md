@@ -34,7 +34,7 @@ Para rodar e testar o exercício, basta entrar em seu respectivo link e escolher
 ### Exercicio2 - "Network delay time"
 **Nível do exercício:** Médio
 
-Para acessar a página do exercício [clique aqui](https://leetcode.com/problems/network-delay-time/submissions/949096440/)
+- Para acessar a página do exercício [clique aqui](https://leetcode.com/problems/network-delay-time/submissions/949096440/)
 
 ![image](https://github.com/projeto-de-algoritmos/Grafos2_Dupla14/blob/master/Ex_NetworkDelayTime/images/print1.png)
 
@@ -44,7 +44,7 @@ Para acessar a página do exercício [clique aqui](https://leetcode.com/problems
 Vale ressaltar que para rodar o código não é necessário instalar a linguagem Python, basta copiar o código e colar no terminal da plataforma usada para resolver o exercício.
 
 **Uso**<br>
-Para rodar e testar o exercício, basta entrar em seu respectivo link e escolher a linguagem correta, copiar o código e colar para fazer os testes!!
+- Para rodar e testar o exercício, basta entrar em seu respectivo link e escolher a linguagem correta, copiar o código e colar para fazer os testes!!
 
 **VIDEO EX 01 e 02**<br>
 [![VIDEOQ01e02](https://img.freepik.com/vetores-gratis/icone-do-player-do-youtube-com-design-plano_23-2147839964.jpg?w=200)](https://youtu.be/YuLHAEta8AI)
@@ -52,8 +52,8 @@ Para rodar e testar o exercício, basta entrar em seu respectivo link e escolher
 ### Exercicio3 - "Path With Minimum Effort"
 **Nível do exercício:** Médio
 
-Para acessar a página do exercício [clique aqui](https://leetcode.com/problems/path-with-minimum-effort/)
-
+- Para acessar a página do exercício [clique aqui](https://leetcode.com/problems/path-with-minimum-effort/)
+- Para acessar a página do vídeo [clique aqui](https://github.com/projeto-de-algoritmos/Grafos2_Dupla14/blob/master/videos/explicacao_exercicio3.mp4)
 
 ![image](https://github.com/projeto-de-algoritmos/Grafos2_Dupla14/blob/master/PathWithMinimumEffort/images/print3.jpeg)
 
@@ -64,8 +64,5 @@ Vale ressaltar que para rodar o código não é necessário instalar a linguagem
 
 **Uso**<br>
 Para rodar e testar o exercício, basta entrar em seu respectivo link e escolher a linguagem correta, copiar o código e colar para fazer os testes!!
-
-**VIDEO EX 03**<br>
-[![VIDEOQ003](https://img.freepik.com/vetores-gratis/icone-do-player-do-youtube-com-design-plano_23-2147839964.jpg?w=200)](https://youtu.be/FU0uNnwRQPY)
 
 
